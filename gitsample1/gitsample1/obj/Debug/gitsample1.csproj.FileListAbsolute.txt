@@ -1,0 +1,6 @@
+C:\working with git\samplepro1\gitsample1\gitsample1\bin\Debug\gitsample1.exe.config
+C:\working with git\samplepro1\gitsample1\gitsample1\bin\Debug\gitsample1.exe
+C:\working with git\samplepro1\gitsample1\gitsample1\bin\Debug\gitsample1.pdb
+C:\working with git\samplepro1\gitsample1\gitsample1\obj\Debug\gitsample1.csprojResolveAssemblyReference.cache
+C:\working with git\samplepro1\gitsample1\gitsample1\obj\Debug\gitsample1.exe
+C:\working with git\samplepro1\gitsample1\gitsample1\obj\Debug\gitsample1.pdb
