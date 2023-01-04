@@ -10,11 +10,14 @@ namespace gitsample1
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine(PeriOfCircle(7));
         }
 
         #region periofcircle
-
+        public static double PeriOfCircle(double rad)
+        {
+            return 2 * Math.PI * rad;
+        }
         #endregion
 
         #region 
